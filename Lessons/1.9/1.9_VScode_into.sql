@@ -1,2 +1,2 @@
-select 2 as new;
+select 12 as new;
 select 'Anil' as name;
